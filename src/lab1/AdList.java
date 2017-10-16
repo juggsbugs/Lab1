@@ -8,6 +8,7 @@ package lab1;
 //112358
 >>>>>>> C4
 >>>>>>> B1
+//yuan lai ni shi
 import java.util.ArrayList;
 import java.util.List;
 
